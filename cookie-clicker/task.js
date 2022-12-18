@@ -16,5 +16,4 @@ img.onclick = () => {
         img.width -= 10;
         img.height -= 10;
     }
-
 }
